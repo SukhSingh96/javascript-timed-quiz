@@ -35,3 +35,5 @@ The following will display the functionality of the website.
 ![image](https://user-images.githubusercontent.com/121911679/220405185-8d42dbc3-503f-419e-bb1e-0150be259270.png)
 ![image](https://user-images.githubusercontent.com/121911679/220405281-0bfecba3-0eb3-42eb-96d8-7ba50180b4b7.png)
 
+Link to deployed application
+https://sukhsingh96.github.io/javascript-timed-quiz/
