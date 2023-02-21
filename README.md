@@ -27,13 +27,13 @@ Mock-up
 The following will display the functionality of the website.
 
 ![image](https://user-images.githubusercontent.com/121911679/220404603-a8ccff35-a842-4708-ae9d-56db367bc0c1.png)
-![image](https://user-images.githubusercontent.com/121911679/220404712-5df54ebe-8740-4305-ad70-67df2a164b50.png)
-![image](https://user-images.githubusercontent.com/121911679/220404781-efdd82c9-69aa-4269-a9c3-244e9955124b.png)
-![image](https://user-images.githubusercontent.com/121911679/220404858-aff1f1a7-15a7-4c6e-8ce3-ae185c69d63b.png)
-![image](https://user-images.githubusercontent.com/121911679/220404915-0e24f80d-7da9-46d4-a7d5-3c1ea869b37b.png)
-![image](https://user-images.githubusercontent.com/121911679/220405003-0b85960b-2b8c-40da-b83a-c44b32a7dad8.png)
-![image](https://user-images.githubusercontent.com/121911679/220405185-8d42dbc3-503f-419e-bb1e-0150be259270.png)
-![image](https://user-images.githubusercontent.com/121911679/220405281-0bfecba3-0eb3-42eb-96d8-7ba50180b4b7.png)
+![image](https://user-images.githubusercontent.com/121911679/220420506-37e5ba6b-2f1e-4255-9084-27dd55042de8.png)
+![image](https://user-images.githubusercontent.com/121911679/220420663-991308c4-511c-41c0-89f0-5640ec158db5.png)
+![image](https://user-images.githubusercontent.com/121911679/220420760-30a52970-cbab-415c-b4ab-123549bd06d5.png)
+![image](https://user-images.githubusercontent.com/121911679/220420838-2e3dd81c-de61-4109-82b5-0d8fc5fd545b.png)
+![image](https://user-images.githubusercontent.com/121911679/220420941-b1c08704-93a0-404d-b935-91664efd7f8e.png)
+![image](https://user-images.githubusercontent.com/121911679/220421100-6850e750-891f-4d4c-a9d9-edc063c7b207.png)
+![image](https://user-images.githubusercontent.com/121911679/220421182-63f6b397-cbc4-48a2-b6a6-07f536a7e23e.png)
 
 Link to deployed application
 https://sukhsingh96.github.io/javascript-timed-quiz/
