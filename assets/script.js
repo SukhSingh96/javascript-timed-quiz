@@ -2,15 +2,15 @@
 
 var questions = [
     {
-        prompt: "Inside which HTML element do we put the JavaScript?",
-        options: ["<javascript>", "<js>", "<script>", "<scripting>"],
-        answer: "<script>"
-    },
-
-    {
         prompt: "How do you call a function named myFunction?",
         options: ["call myFunction()", "myFunction()", "call function myFunction", "Call.myFunction"],
         answer: "myFunction()"
+    },
+
+    {
+        prompt: "Which of these array methods returns an array?",
+        options: ["Array.splice()", "Array.forEach()", "Array.find()", "Array.reduce()"],
+        answer: "Array.splice()" 
     },
 
     {
@@ -20,15 +20,15 @@ var questions = [
     },
 
     {
-        prompt: "In JavaScript, which of the following is a logical operator?",
-        options: ["|", "&&", "%", "/"],
-        answer: "&&" 
+        prompt: "Inside which HTML element do we put the JavaScript?",
+        options: ["<javascript>", "<js>", "<script>", "<scripting>"],
+        answer: "<script>" 
     },
 
     {
-        prompt: "A named element in a JavaScript program that is used to store and retrieve data is a _____.",
-        options: ["method", "assignment operator", "variable", "string"],
-        answer: "variable"
+        prompt: "How would you properly access the third item of an array named 'myArray' in Javascript?",
+        options: ["myArray(3)", "myArray[3]", "myArray[2]", "myArray.3"],
+        answer: "myArray[2]"
     }];
 
 // Dom Elements
