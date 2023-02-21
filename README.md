@@ -32,7 +32,6 @@ The following will display the functionality of the website.
 ![image](https://user-images.githubusercontent.com/121911679/220404858-aff1f1a7-15a7-4c6e-8ce3-ae185c69d63b.png)
 ![image](https://user-images.githubusercontent.com/121911679/220404915-0e24f80d-7da9-46d4-a7d5-3c1ea869b37b.png)
 ![image](https://user-images.githubusercontent.com/121911679/220405003-0b85960b-2b8c-40da-b83a-c44b32a7dad8.png)
-![image](https://user-images.githubusercontent.com/121911679/220405125-ab3d5c9a-10a4-45ec-ae95-59f77e99b900.png)
 ![image](https://user-images.githubusercontent.com/121911679/220405185-8d42dbc3-503f-419e-bb1e-0150be259270.png)
 ![image](https://user-images.githubusercontent.com/121911679/220405281-0bfecba3-0eb3-42eb-96d8-7ba50180b4b7.png)
 
